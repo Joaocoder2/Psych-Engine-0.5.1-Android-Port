@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfSoulGuitar.png">
+<SubTexture name="BF Idle Dance0000" x="0" y="0" width="622" height="569" frameX="0" frameY="0" frameWidth="622" frameHeight="569" />
+<SubTexture name="BF NOTE UP0000" x="0" y="0" width="622" height="569" frameX="0" frameY="0" frameWidth="622" frameHeight="569" />
+<SubTexture name="BF NOTE UP0001" x="622" y="0" width="622" height="569" frameX="0" frameY="0" frameWidth="622" frameHeight="569" />
+<SubTexture name="BF NOTE UP0002" x="1244" y="0" width="622" height="569" frameX="0" frameY="0" frameWidth="622" frameHeight="569" />
+<SubTexture name="BF NOTE UP0003" x="1866" y="0" width="622" height="569" frameX="0" frameY="0" frameWidth="622" frameHeight="569" />
+<SubTexture name="BF NOTE DOWN0000" x="0" y="569" width="728" height="557" frameX="0" frameY="0" frameWidth="728" frameHeight="557" />
+<SubTexture name="BF NOTE DOWN0001" x="728" y="569" width="728" height="557" frameX="0" frameY="0" frameWidth="728" frameHeight="557" />
+<SubTexture name="BF NOTE DOWN0002" x="728" y="569" width="728" height="557" frameX="0" frameY="0" frameWidth="728" frameHeight="557" />
+<SubTexture name="BF NOTE RIGHT0000" x="1456" y="569" width="530" height="589" frameX="0" frameY="0" frameWidth="530" frameHeight="589" />
+<SubTexture name="BF NOTE RIGHT0001" x="1986" y="569" width="530" height="589" frameX="0" frameY="0" frameWidth="530" frameHeight="589" />
+<SubTexture name="BF NOTE LEFT0002" x="0" y="1158" width="529" height="520" frameX="0" frameY="0" frameWidth="529" frameHeight="520" />
+<SubTexture name="BF NOTE LEFT0003" x="529" y="1158" width="529" height="520" frameX="0" frameY="0" frameWidth="529" frameHeight="520" />
+</TextureAtlas>        
+                       
