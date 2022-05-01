@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.55,
+	"image": "bfDialogueGlitch",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Boyfriend portrait enter instance 10008",
+			"loop_name": "Boyfriend portrait enter instance 10008"
+		}
+	]
+}
